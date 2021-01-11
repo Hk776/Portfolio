@@ -1,5 +1,6 @@
 body{
     font-family: 'Xanh Mono', monospace;
+    margin: 0px;
 }
 .wel{
     font-family: 'Potta One', cursive;
@@ -18,4 +19,10 @@ body{
 }
 .half-width img{
     width: 100%;
+}
+.top-section{
+    background-image: url("img/top-banner.png");
+}
+section{
+    height: 500px;
 }
