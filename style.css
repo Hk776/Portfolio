@@ -34,3 +34,14 @@ section{
     color: white;
     font-weight: 700;
 }
+.dream-area{
+    padding: 50px;
+}
+p{
+    color: dimgray;
+}
+.dream-area{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
