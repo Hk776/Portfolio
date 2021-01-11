@@ -43,5 +43,6 @@ p{
 .dream-area{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
+    
 }
