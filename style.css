@@ -48,7 +48,7 @@ p{
 }
 .single-ex{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 250px;
     width: 37%;
 }
@@ -69,4 +69,8 @@ p{
 }
 footer{
     text-align: center;
+}
+.new-design{
+    font-size: 30px;
+    color: black;
 }
